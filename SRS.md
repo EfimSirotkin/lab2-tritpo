@@ -1,5 +1,6 @@
-# SCHOOL STAFF MANAGER
-*Требования к проекту*  
+# Требования к проекту  
+### *SCHOOL STAFF MANAGER*
+
 
 # Содержание
 
